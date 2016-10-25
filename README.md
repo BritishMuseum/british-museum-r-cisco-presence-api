@@ -18,3 +18,5 @@ Description: R script to facilitate the collection of data from CISCO CMX presen
 
 # CISCO_merge Code
 * Collects individual data files and merges in one table
+
+[![DOI](https://zenodo.org/badge/71580641.svg)](https://zenodo.org/badge/latestdoi/71580641)
