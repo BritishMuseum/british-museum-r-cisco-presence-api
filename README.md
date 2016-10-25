@@ -3,7 +3,7 @@ R scripts to collect Wi-Fi presence data from CISCO presence API
 
 What is CISCO Presence Analytics Service? 
 "The Cisco Connected Mobile Experiences (Cisco CMX) Presence Analytics service enables organizations with small deployments, even those with only one or two access points (APs), to use the wireless technology to study customer behavior."
-#Reference : http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html
+Reference : http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html
 
 
 # PresenceAPICall Code
