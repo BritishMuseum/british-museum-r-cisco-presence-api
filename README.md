@@ -8,7 +8,7 @@ __What is CISCO Presence Analytics Service?__
 
 "The Cisco Connected Mobile Experiences (Cisco CMX) Presence Analytics service enables organizations with small deployments, even those with only one or two access points (APs), to use the wireless technology to study customer behavior."
 
-Reference : http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html
+Reference : [CISCO CMX presence analytics](http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html)
 
 :wrench: Two code parts : One to collect the data and the other to merge the single data files into one table. 
 
@@ -26,3 +26,5 @@ Description: R script to facilitate the collection of data from CISCO CMX presen
 * Collects individual data files and merges in one table
 
 *Prerequisites : Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
+
+The British Museum tested CISCO presence but not it in use after testing.
