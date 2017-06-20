@@ -1,8 +1,8 @@
-# R code to collect Wi-Fi data from CISCO Presence API
+# R code to collect Wi-Fi data from CISCO Presence API  :iphone::wrench::chart_with_upwards_trend:
 
 ![](https://img.shields.io/badge/repo-RCiscoPresenceAPI-red.svg) ![](https://img.shields.io/badge/code-R-blue.svg) [![DOI](https://zenodo.org/badge/22881/BritishMuseum/RSearchWordCloud.svg)][![DOI](https://zenodo.org/badge/71580641.svg)](https://zenodo.org/badge/latestdoi/71580641)
 
-OBJECTIVE: R script to collect Wi-Fi presence data from CISCO presence API
+**OBJECTIVE: R script to collect Wi-Fi presence data from CISCO presence API**
 
 __What is CISCO Presence Analytics Service?__
 
