@@ -1,12 +1,12 @@
 # R code to collect Wi-Fi data from CISCO Presence API  :iphone::wrench::chart_with_upwards_trend:
 
-![](https://img.shields.io/badge/repo-RCiscoPresenceAPI-red.svg) ![](https://img.shields.io/badge/code-R-blue.svg) [![DOI](https://zenodo.org/badge/22881/BritishMuseum/RSearchWordCloud.svg)][![DOI](https://zenodo.org/badge/71580641.svg)](https://zenodo.org/badge/latestdoi/71580641)
+![](https://img.shields.io/badge/repo-RCiscoPresenceAPI-red.svg) ![](https://img.shields.io/badge/code-R-blue.svg) [![DOI](https://zenodo.org/badge/71580641.svg)](https://zenodo.org/badge/latestdoi/71580641)
 
 **OBJECTIVE: R script to collect Wi-Fi presence data from CISCO presence API**
 
-__What is CISCO Presence Analytics Service?__
+*What is CISCO Presence Analytics Service?*
 
-"The Cisco Connected Mobile Experiences (Cisco CMX) Presence Analytics service enables organizations with small deployments, even those with only one or two access points (APs), to use the wireless technology to study customer behavior."
+*"The Cisco Connected Mobile Experiences (Cisco CMX) Presence Analytics service enables organizations with small deployments, even those with only one or two access points (APs), to use the wireless technology to study customer behavior."*
 
 Reference : [CISCO CMX presence analytics](http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html)
 
