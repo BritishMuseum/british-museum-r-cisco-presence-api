@@ -10,6 +10,8 @@
 
 Reference : [CISCO CMX presence analytics](http://www.cisco.com/c/en/us/td/docs/wireless/mse/10-2/cmx_config/b_cg_cmx102/the_cisco_cmx_presence_analytics_service.html)
 
+---
+## R Code
 :wrench: Two code parts : One to collect the data and the other to merge the single data files into one table. 
 
 # [PresenceAPIcalls](https://github.com/BritishMuseum/RCiscoPresenceAPI/blob/master/PresenceAPIcalls.R)
@@ -22,7 +24,7 @@ Description: R script to facilitate the collection of data from CISCO CMX presen
 * Dwell time level by site by day
 * Average dwell time between two dates by site
 
-# [CISCO_merge Code](https://github.com/BritishMuseum/RCiscoPresenceAPI/blob/master/CISCO_merge.R)
+# [CISCO_merge](https://github.com/BritishMuseum/RCiscoPresenceAPI/blob/master/CISCO_merge.R)
 * Collects individual data files and merges in one table
 
 *Prerequisites : Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
