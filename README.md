@@ -27,6 +27,8 @@ Description: R script to facilitate the collection of data from CISCO CMX presen
 # [CISCO_merge](https://github.com/BritishMuseum/RCiscoPresenceAPI/blob/master/CISCO_merge.R)
 * Collects individual data files and merges in one table
 
+---
+
 *Prerequisites : Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
 
-The British Museum tested CISCO presence but not it in use after testing.
+The British Museum tested CISCO presence but it is not in use.
